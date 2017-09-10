@@ -17,3 +17,5 @@ This is a project dedicated to make comunity between students of the university.
     //Similar to backlog requeriments and Kanvas board
     
 [Licence]
+
+[Agradecimientos]
